@@ -77,3 +77,56 @@
 > **Every dataset has a story. My goal is to discover it.**
 
 ---
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+</p>
+
+---
+
+### 📊 Data Science & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 Artificial Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-10B981?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark"/>
+</p>
+
+---
+
+### 📈 Areas of Expertise
+
+| 📊 Data Science | 🤖 Machine Learning | 🚚 Logistics Analytics |
+|:---------------:|:------------------:|:----------------------:|
+| Data Cleaning | Regression | Supply Chain |
+| Data Visualization | Classification | Forecasting |
+| Feature Engineering | Model Evaluation | Operations Research |
+| Exploratory Data Analysis | Predictive Analytics | Business Intelligence |
+
+</div>
