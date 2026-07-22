@@ -34,46 +34,39 @@
 class AbdulBasit:
 
     def __init__(self):
-
         self.name = "Abdul Basit Saeed"
-
         self.role = "Data Scientist"
 
         self.interests = [
-
             "Machine Learning",
-
             "Artificial Intelligence",
-
             "Predictive Analytics",
-
             "Data Visualization",
-
             "Logistics Data Science"
-
         ]
 
-        self.language = [
-
+        self.languages = [
             "Python",
-
             "SQL"
-
         ]
 
-        self.current_goal = "Building AI solutions using Data Science"
+        self.current_goal = (
+            "Building AI solutions "
+            "using Data Science "
+            "and Machine Learning"
+        )
 
     def say_hi(self):
+        return (
+            "Thanks for visiting "
+            "my profile ⭐"
+        )
 
-        return "Thanks for visiting my profile ⭐"
 
 me = AbdulBasit()
 
 print(me.say_hi())
 ```
-
----
-
 ## 🌟 What I'm Doing
 
 🔭 Currently working on **Machine Learning Projects**
