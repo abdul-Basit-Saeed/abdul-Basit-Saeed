@@ -30,43 +30,34 @@
 
 ## 💫 About Me
 
-```python
-class AbdulBasit:
+<div align="center">
 
-    def __init__(self):
-        self.name = "Abdul Basit Saeed"
-        self.role = "Data Scientist"
+| 🚀 **Category** | 💡 **Details** |
+|:---------------:|:--------------|
+| 👤 **Name** | Abdul Basit Saeed |
+| 💼 **Role** | Data Scientist & Machine Learning Enthusiast |
+| 🎓 **Education** | MSc Logistics, Data Science & AI *(University of Bradford)* |
+| 🧠 **Interests** | Artificial Intelligence, Machine Learning, Data Science |
+| 📊 **Specialization** | Predictive Analytics, Data Visualization, Data Cleaning |
+| 🚚 **Domain** | Logistics & Supply Chain Analytics |
+| 🐍 **Programming** | Python, SQL |
+| 📚 **Currently Learning** | Deep Learning, Generative AI, LLMs, MLOps |
+| 🤝 **Open To** | Collaboration on AI & Data Science Projects |
+| 🎯 **Career Goal** | Building AI-powered solutions that solve real-world business problems |
 
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Predictive Analytics",
-            "Data Visualization",
-            "Logistics Data Science"
-        ]
+</div>
 
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
+---
 
-        self.current_goal = (
-            "Building AI solutions "
-            "using Data Science "
-            "and Machine Learning"
-        )
+### 🌟 A Few Things About Me
 
-    def say_hi(self):
-        return (
-            "Thanks for visiting "
-            "my profile ⭐"
-        )
+- 🔭 Building **Machine Learning** and **Data Science** projects.
+- 🌱 Exploring **Deep Learning**, **LLMs**, and **Generative AI**.
+- 📈 Passionate about transforming raw data into meaningful insights.
+- 🚚 Interested in applying AI to **Logistics** and **Supply Chain Optimization**.
+- 💡 I believe every dataset tells a story—my goal is to discover it.
 
-
-me = AbdulBasit()
-
-print(me.say_hi())
-```
+> **"Data is the new oil, but insight is the real fuel."** 🚀
 ## 🌟 What I'm Doing
 
 🔭 Currently working on **Machine Learning Projects**
