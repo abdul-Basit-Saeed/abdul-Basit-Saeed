@@ -22,6 +22,12 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/">
+<img src="https://img.shields.io/badge/Microsoft_Certified-SC--300_Identity_%26_Access_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -39,54 +45,12 @@ Passionate about building intelligent, data-driven solutions through
 </p>
 
 ---
-# 💻 Tech Stack
 
-<div align="center">
+### 🎓 Current Focus
 
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
-
-<br><br>
-
-### 📊 Data Science
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<br><br>
-
-### 🤖 AI & Machine Learning
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-10B981?style=for-the-badge"/>
-
-<br><br>
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark"/>
-
-</div>
-
----
-
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-| 📊 Data Science | 🤖 Machine Learning | 🚚 Logistics Analytics |
-|:---------------:|:------------------:|:----------------------:|
-| Data Cleaning | Regression | Supply Chain Analytics |
-| Data Visualization | Classification | Demand Forecasting |
-| Exploratory Data Analysis | Predictive Modeling | Operations Analytics |
-| Feature Engineering | Model Evaluation | Business Intelligence |
-
-</div>
+- 🎓 Pursuing an **MSc in Logistics, Data Science & Artificial Intelligence**
+- 🏅 **Microsoft Certified: Identity and Access Administrator Associate (SC-300)**
+- 🌱 Currently exploring **Generative AI, LLMs, MLOps, and Supply Chain Analytics**
+- 🚀 Building practical AI and Data Science projects to solve real-world business challenges.
 
 ---
