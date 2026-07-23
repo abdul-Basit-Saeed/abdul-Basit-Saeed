@@ -11,7 +11,6 @@
   <a href="https://github.com/abdul-Basit-Saeed?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abdul-Basit-Saeed&label=Profile%20Views&style=for-the-badge&color=0EA5E9" alt="Profile views"/>
 </p>
 
 </div>
@@ -32,7 +31,12 @@ I am a data-science and artificial-intelligence practitioner focused on transfor
 
 ### Languages and Analysis
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css&theme=dark" alt="Python, C, HTML and CSS"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 ### Data and Analytics
 
@@ -78,19 +82,6 @@ Machine-learning operations and reproducible deployment
 Logistics and supply-chain analytics
 Modern analytics engineering workflows
 ```
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdul-Basit-Saeed&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-Basit-Saeed&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-Basit-Saeed&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
 
 ## Certification
 
