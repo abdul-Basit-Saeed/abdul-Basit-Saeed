@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+clear%2C+actionable+insights;Building+reproducible+analytics+projects;Exploring+machine+learning+and+AI;Learning%2C+building%2C+and+improving+continuously" alt="Animated introduction"/>
 
 <p>
+  <a href="https://www.linkedin.com/in/abdul-basit-saeed-1130a5285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:basit.saeed.987@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -98,6 +101,8 @@ Modern analytics engineering workflows
 I am open to conversations about data science, analytics engineering, machine learning, business intelligence, and collaborative projects.
 
 **Email:** [basit.saeed.987@gmail.com](mailto:basit.saeed.987@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/abdul-basit-saeed-1130a5285](https://www.linkedin.com/in/abdul-basit-saeed-1130a5285/)
 
 <div align="center">
 
