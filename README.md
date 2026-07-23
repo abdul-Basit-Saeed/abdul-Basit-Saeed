@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Abdul%20Basit%20Saeed&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Analytics%20Engineering&descAlignY=60&animation=fadeIn" alt="Abdul Basit Saeed profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+clear%2C+actionable+insights;Building+reproducible+analytics+projects;Exploring+AI+for+logistics+and+supply+chains;Learning%2C+building%2C+and+improving+continuously" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+clear%2C+actionable+insights;Building+reproducible+analytics+projects;Exploring+machine+learning+and+AI;Learning%2C+building%2C+and+improving+continuously" alt="Animated introduction"/>
 
 <p>
   <a href="mailto:basit.saeed.987@gmail.com">
@@ -21,7 +21,7 @@ I am a data-science and artificial-intelligence practitioner focused on transfor
 
 - Pursuing an **MSc in Logistics, Data Science & Artificial Intelligence**
 - **Microsoft Certified: Identity and Access Administrator Associate (SC-300)**
-- Interested in **predictive analytics, supply-chain intelligence, machine learning, and data platforms**
+- Interested in **predictive analytics, machine learning, business intelligence, and data platforms**
 - Building practical projects with **Python, SQL, Power BI, Snowflake, and dbt**
 - Currently exploring **Generative AI, LLM applications, and MLOps**
 
@@ -79,7 +79,7 @@ I am a data-science and artificial-intelligence practitioner focused on transfor
 ```text
 Generative AI and LLM applications
 Machine-learning operations and reproducible deployment
-Logistics and supply-chain analytics
+Business intelligence and decision-ready dashboards
 Modern analytics engineering workflows
 ```
 
@@ -95,7 +95,7 @@ Modern analytics engineering workflows
 
 ## Let's Connect
 
-I am open to conversations about data science, analytics engineering, machine learning, logistics analytics, and collaborative projects.
+I am open to conversations about data science, analytics engineering, machine learning, business intelligence, and collaborative projects.
 
 **Email:** [basit.saeed.987@gmail.com](mailto:basit.saeed.987@gmail.com)
 
